@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page1 Copy",
+      "isDefault": false
     }
   ],
   "viewMode": false,
